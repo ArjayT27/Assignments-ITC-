@@ -15,7 +15,7 @@
     <body>
 
         <nav> 
-            <label class="navbar">TanDuCS1131</label>
+            <label class="navbar">TanDuCS1130</label>
             <ul>
                 <li><a class="active" href="index.html">HOME</a></li>
                 <li><a href="Assignment1.html">Assignment 1</a></li>
