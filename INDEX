@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
 
-        <title>TanDuCS1131_HomePage</title>
+        <title>TanDuCS1130_HomePage</title>
 
         <link rel="stylesheet" href="style.css">
         
@@ -14,7 +14,7 @@
     <body>
 
         <nav> 
-            <label class="navbar">TanDuCS1131</label>
+            <label class="navbar">TanDuCS1130</label>
             <ul>
                 <li><a class="active" href="index.html">HOME</a></li>
                 <li><a href="Assignment1.html">Assignment 1</a></li>
